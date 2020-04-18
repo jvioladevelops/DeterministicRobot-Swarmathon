@@ -20,7 +20,7 @@ Press "setup" to create robots, and the map. Then press the "robot control" butt
 
 ## THINGS TO NOTICE
 
-Sliders, pen up and pen down feature.
+You can change the cluster type with the dropdown menu. Notice you can change the angle for both algorithms.
 
 
 ## THINGS TO TRY
