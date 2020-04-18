@@ -1,6 +1,6 @@
 # Deterministic Robot
 
-<img src="https://github.com/jvioladevelops/Swarmathon-in-NetLogo/blob/master/Milestone%202/Swarmathongif.gif" width="900" height="600">
+<https://github.com/jvioladevelops/DeterministicRobot-Swarmathon/blob/master/Milestone%204/Milestone4gif.gif" width="900" height="600">
 
 ##
 
